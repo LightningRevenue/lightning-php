@@ -26,7 +26,7 @@ require_once 'components/footer.php';
                         </h1>
                         <div class="text-xl text-gray-600 space-y-4">
                             <p>
-                                Suntem o <a href="/lightning-revenue/pages/despre-noi.php" class="text-blue-600 hover:text-blue-700 underline">agenție de marketing digital</a> din București specializată în:
+                                Suntem o <a href="/lightning-revenue/despre-noi" class="text-blue-600 hover:text-blue-700 underline">agenție de marketing digital</a> din București specializată în:
                             </p>
                             <ul class="space-y-2 ml-4">
                                 <li class="flex items-center">
@@ -55,7 +55,7 @@ require_once 'components/footer.php';
                                 </li>
                             </ul>
                             <p class="pt-2">
-                                Descoperă cum putem să <a href="/lightning-revenue/pages/servicii/analytics.php" class="text-blue-600 hover:text-blue-700 underline">măsurăm și să îmbunătățim</a> prezența ta online pentru rezultate excepționale.
+                                Descoperă cum putem să <a href="/lightning-revenue/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-700 underline">măsurăm și să îmbunătățim</a> prezența ta online pentru rezultate excepționale.
                             </p>
                         </div>
 
@@ -634,7 +634,7 @@ require_once 'components/footer.php';
 
                             <div>
                                 <h4 class="text-xl font-semibold text-gray-900 mb-4">
-                                    <a href="/lightning-revenue/servicii/seo-bucuresti" class="text-blue-600 hover:text-blue-700">
+                                    <a href="/lightning-revenue/dezvoltare-siteuri-bucuresti" class="text-blue-600 hover:text-blue-700">
                                         2. Optimizare SEO pentru Creștere Organică
                                     </a>
                                 </h4>
@@ -654,7 +654,7 @@ require_once 'components/footer.php';
 
                             <div>
                                 <h4 class="text-xl font-semibold text-gray-900 mb-4">
-                                    <a href="/lightning-revenue/servicii/dezvoltare-website-bucuresti" class="text-blue-600 hover:text-blue-700">
+                                    <a href="/lightning-revenue/dezvoltare-siteuri-bucuresti" class="text-blue-600 hover:text-blue-700">
                                         3. Website-uri Performante pentru Afaceri Mici si Mijlocii
                                     </a>
                                 </h4>
@@ -688,7 +688,7 @@ require_once 'components/footer.php';
 
                             <div>
                                 <h4 class="text-xl font-semibold text-gray-900 mb-4">
-                                    <a href="/lightning-revenue/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-700">
+                                    <a href="/lightning-revenue/email-marketing-bucuresti" class="text-blue-600 hover:text-blue-700">
                                         5. Email Marketing pentru Fidelizare și Conversii
                                     </a>
                                 </h4>
