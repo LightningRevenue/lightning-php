@@ -145,7 +145,7 @@ renderNavbar();
                 <div class="bg-gray-50 p-6 rounded-lg mt-8">
                     <p class="text-sm text-gray-600">
                         Această politică cookie face parte din politica noastră de confidențialitate. Pentru mai multe informații despre cum protejăm datele dumneavoastră, vă rugăm să consultați 
-                        <a href="/lightning-revenue/politica-confidentialitate" class="text-blue-600 hover:text-blue-800">Politica de Confidențialitate</a>.
+                        <a href="/politica-confidentialitate" class="text-blue-600 hover:text-blue-800">Politica de Confidențialitate</a>.
                     </p>
                 </div>
             </div>
