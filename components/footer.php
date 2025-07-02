@@ -16,17 +16,17 @@ function renderFooter() {
                     <h3 class="text-xl font-bold mb-4">Servicii</h3>
                     <ul class="space-y-2">
                         <li>
-                            <a href="/promovare-google-ads-promovare-online" class="text-gray-400 hover:text-white transition duration-150">
+                            <a href="/lightning-revenue/promovare-google-ads-promovare-online" class="text-gray-400 hover:text-white transition duration-150">
                                 Promovare Online Bucuresti
                             </a>
                         </li>
                         <li>
-                            <a href="/dezvoltare-siteuri-bucuresti" class="text-gray-400 hover:text-white transition duration-150">
+                            <a href="/lightning-revenue/dezvoltare-siteuri-bucuresti" class="text-gray-400 hover:text-white transition duration-150">
                                 Dezvoltare Website Bucuresti
                             </a>
                         </li>
                         <li>
-                            <a href="/email-marketing-bucuresti" class="text-gray-400 hover:text-white transition duration-150">
+                            <a href="/lightning-revenue/email-marketing-bucuresti" class="text-gray-400 hover:text-white transition duration-150">
                                 Email Marketing Bucuresti
                             </a>
                         </li>
@@ -38,17 +38,17 @@ function renderFooter() {
                     <h3 class="text-xl font-bold mb-4">Companie</h3>
                     <ul class="space-y-2">
                         <li>
-                            <a href="/despre-noi" class="text-gray-400 hover:text-white transition duration-150">
+                            <a href="/lightning-revenue/despre-noi" class="text-gray-400 hover:text-white transition duration-150">
                                 Agentie Online Bucuresti
                             </a>
                         </li>
                         <li>
-                            <a href="/resurse-tehnice" class="text-gray-400 hover:text-white transition duration-150">
+                            <a href="/lightning-revenue/resurse-tehnice" class="text-gray-400 hover:text-white transition duration-150">
                                 Resurse Tehnice
                             </a>
                         </li>
                         <li>
-                            <a href="/contact" class="text-gray-400 hover:text-white transition duration-150">
+                            <a href="/lightning-revenue/contact" class="text-gray-400 hover:text-white transition duration-150">
                                 Contacteaza-ne
                             </a>
                         </li>
@@ -60,17 +60,17 @@ function renderFooter() {
                     <h3 class="text-xl font-bold mb-4">Legal</h3>
                     <ul class="space-y-2 mb-6">
                         <li>
-                            <a href="/termeni-si-conditii" class="text-gray-400 hover:text-white transition duration-150">
+                            <a href="/lightning-revenue/termeni-si-conditii" class="text-gray-400 hover:text-white transition duration-150">
                                 Termeni și Condiții
                             </a>
                         </li>
                         <li>
-                            <a href="/politica-cookie" class="text-gray-400 hover:text-white transition duration-150">
+                            <a href="/lightning-revenue/politica-cookie" class="text-gray-400 hover:text-white transition duration-150">
                                 Politica Cookie
                             </a>
                         </li>
                         <li>
-                            <a href="/politica-confidentialitate" class="text-gray-400 hover:text-white transition duration-150">
+                            <a href="/lightning-revenue/politica-confidentialitate" class="text-gray-400 hover:text-white transition duration-150">
                                 Politica de Confidențialitate
                             </a>
                         </li>

@@ -175,7 +175,7 @@ require_once '../components/footer.php';
                         </div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Google Ads</h3>
                         <p class="text-gray-600 mb-4">Campanii de publicitate optimizate pentru rezultate maxime și ROI crescut.</p>
-                        <a href="/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-700 font-medium">
+                        <a href="/lightning-revenue/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-700 font-medium">
                             Află mai multe →
                         </a>
                     </div>
@@ -189,7 +189,7 @@ require_once '../components/footer.php';
                         </div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Dezvoltare Website</h3>
                         <p class="text-gray-600 mb-4">Website-uri moderne, responsive și optimizate pentru conversii.</p>
-                        <a href="/dezvoltare-siteuri-bucuresti" class="text-blue-600 hover:text-blue-700 font-medium">
+                        <a href="/lightning-revenue/dezvoltare-siteuri-bucuresti" class="text-blue-600 hover:text-blue-700 font-medium">
                             Află mai multe →
                         </a>
                     </div>
@@ -203,7 +203,7 @@ require_once '../components/footer.php';
                         </div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Email Marketing</h3>
                         <p class="text-gray-600 mb-4">Strategii de email marketing pentru creșterea conversiilor și fidelizarea clienților.</p>
-                        <a href="/email-marketing-bucuresti" class="text-blue-600 hover:text-blue-700 font-medium">
+                        <a href="/lightning-revenue/email-marketing-bucuresti" class="text-blue-600 hover:text-blue-700 font-medium">
                             Află mai multe →
                         </a>
                     </div>

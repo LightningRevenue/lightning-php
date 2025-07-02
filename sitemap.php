@@ -8,7 +8,7 @@ function getLastModified($file) {
 }
 
 // Base URL of the website
-$baseURL = "https:/.com";
+$baseURL = "https://lightning-revenue.com/lightning-revenue";
 
 // Array of all pages with their priorities and change frequencies
 $pages = [

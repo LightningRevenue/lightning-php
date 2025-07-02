@@ -46,7 +46,7 @@ renderNavbar();
                                 <p class="text-gray-600 mb-4">
                                     Creăm website-uri moderne, optimizate și ușor de administrat pentru afacerea ta.
                                 </p>
-                                <a href="/dezvoltare-siteuri-bucuresti" class="text-blue-600 hover:text-blue-800">
+                                <a href="/lightning-revenue/dezvoltare-siteuri-bucuresti" class="text-blue-600 hover:text-blue-800">
                                     Află mai multe →
                                 </a>
                             </div>
@@ -56,7 +56,7 @@ renderNavbar();
                                 <p class="text-gray-600 mb-4">
                                     Strategii personalizate de advertising pentru maximizarea ROI-ului tău.
                                 </p>
-                                <a href="/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-800">
+                                <a href="/lightning-revenue/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-800">
                                     Află mai multe →
                                 </a>
                             </div>
@@ -66,7 +66,7 @@ renderNavbar();
                                 <p class="text-gray-600 mb-4">
                                     Campanii de email marketing care convertesc și construiesc relații durabile.
                                 </p>
-                                <a href="/email-marketing-bucuresti" class="text-blue-600 hover:text-blue-800">
+                                <a href="/lightning-revenue/email-marketing-bucuresti" class="text-blue-600 hover:text-blue-800">
                                     Află mai multe →
                                 </a>
                             </div>
@@ -76,7 +76,7 @@ renderNavbar();
                                 <p class="text-gray-600 mb-4">
                                     Explorează resursele și instrumentele noastre pentru dezvoltatori.
                                 </p>
-                                <a href="/resurse-tehnice" class="text-blue-600 hover:text-blue-800">
+                                <a href="/lightning-revenue/resurse-tehnice" class="text-blue-600 hover:text-blue-800">
                                     Află mai multe →
                                 </a>
                             </div>

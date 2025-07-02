@@ -26,14 +26,14 @@ require_once 'components/footer.php';
                         </h1>
                         <div class="text-xl text-gray-600 space-y-4">
                             <p>
-                                Suntem o <a href="/despre-noi" class="text-blue-600 hover:text-blue-700 underline">agenție de marketing digital</a> din București specializată în:
+                                Suntem o <a href="/lightning-revenue/despre-noi" class="text-blue-600 hover:text-blue-700 underline">agenție de marketing digital</a> din București specializată în:
                             </p>
                             <ul class="space-y-2 ml-4">
                                 <li class="flex items-center">
                                     <svg class="w-5 h-5 text-blue-600 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                     </svg>
-                                    <a href="/pages/servicii/google-ads.php" class="hover:text-blue-600 transition-colors">
+                                    <a href="/lightning-revenue/pages/servicii/google-ads.php" class="hover:text-blue-600 transition-colors">
                                         Campanii Google Ads performante
                                     </a>
                                 </li>
@@ -41,7 +41,7 @@ require_once 'components/footer.php';
                                     <svg class="w-5 h-5 text-blue-600 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                     </svg>
-                                    <a href="/pages/servicii/seo.php" class="hover:text-blue-600 transition-colors">
+                                    <a href="/lightning-revenue/pages/servicii/seo.php" class="hover:text-blue-600 transition-colors">
                                         Optimizare SEO pentru vizibilitate maximă
                                     </a>
                                 </li>
@@ -49,25 +49,25 @@ require_once 'components/footer.php';
                                     <svg class="w-5 h-5 text-blue-600 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                     </svg>
-                                    <a href="/pages/servicii/web-development.php" class="hover:text-blue-600 transition-colors">
+                                    <a href="/lightning-revenue/pages/servicii/web-development.php" class="hover:text-blue-600 transition-colors">
                                         Dezvoltare website-uri și magazine online
                                     </a>
                                 </li>
                             </ul>
                             <p class="pt-2">
-                                Descoperă cum putem să <a href="/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-700 underline">măsurăm și să îmbunătățim</a> prezența ta online pentru rezultate excepționale.
+                                Descoperă cum putem să <a href="/lightning-revenue/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-700 underline">măsurăm și să îmbunătățim</a> prezența ta online pentru rezultate excepționale.
                             </p>
                         </div>
 
                         <div class="flex flex-col sm:flex-row gap-4">
-                            <a href="/pages/contact.php" 
+                            <a href="/lightning-revenue/pages/contact.php" 
                                class="inline-flex justify-center items-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 transition duration-150">
                                 Contactează-ne
                                 <svg class="ml-2 -mr-1 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
                                 </svg>
                             </a>
-                            <a href="/pages/portofoliu.php"
+                            <a href="/lightning-revenue/pages/portofoliu.php"
                                class="inline-flex justify-center items-center px-8 py-3 border border-gray-300 text-base font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 transition duration-150">
                                 Vezi Portofoliu
                             </a>
@@ -76,19 +76,19 @@ require_once 'components/footer.php';
                         <!-- Trust Indicators -->
                         <div class="pt-8 border-t border-gray-200">
                             <div class="grid grid-cols-2 md:grid-cols-3 gap-4 items-center">
-                                <a href="/pages/testimoniale.php" class="flex items-center space-x-2 hover:text-blue-600 transition-colors">
+                                <a href="/lightning-revenue/pages/testimoniale.php" class="flex items-center space-x-2 hover:text-blue-600 transition-colors">
                                     <svg class="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                     </svg>
                                     <span class="text-gray-600">100+ Clienți mulțumiți</span>
                                 </a>
-                                <a href="/pages/certificari.php" class="flex items-center space-x-2 hover:text-blue-600 transition-colors">
+                                <a href="/lightning-revenue/pages/certificari.php" class="flex items-center space-x-2 hover:text-blue-600 transition-colors">
                                     <svg class="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                     </svg>
                                     <span class="text-gray-600">Expertiză certificată</span>
                                 </a>
-                                <a href="/pages/suport.php" class="flex items-center space-x-2 hover:text-blue-600 transition-colors">
+                                <a href="/lightning-revenue/pages/suport.php" class="flex items-center space-x-2 hover:text-blue-600 transition-colors">
                                     <svg class="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                     </svg>
@@ -101,7 +101,7 @@ require_once 'components/footer.php';
                     <!-- Right Column - Image -->
                     <div class="relative">
                         <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl transform rotate-6 scale-105 opacity-10"></div>
-                        <img src="/assets/images/marketing-agency-hero-image-acasa.jpg"
+                        <img src="/lightning-revenue/assets/images/marketing-agency-hero-image-acasa.jpg"
                              alt="Agenție Marketing Digital București"
                              class="relative rounded-2xl shadow-2xl object-cover w-full h-[600px]">
                         <!-- Floating Elements -->
@@ -125,27 +125,27 @@ require_once 'components/footer.php';
         <section class="py-8 bg-gray-50 border-y border-gray-100">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="flex flex-wrap justify-center gap-3 text-sm">
-                    <a href="/servicii/marketing-digital-bucuresti" 
+                    <a href="/lightning-revenue/servicii/marketing-digital-bucuresti" 
                        class="px-4 py-2 rounded-full bg-white text-gray-600 hover:text-blue-600 hover:shadow-md transition duration-300 border border-gray-200">
                         Agentie Marketing Bucuresti
                     </a>
-                    <a href="/servicii/seo-bucuresti" 
+                    <a href="/lightning-revenue/servicii/seo-bucuresti" 
                        class="px-4 py-2 rounded-full bg-white text-gray-600 hover:text-blue-600 hover:shadow-md transition duration-300 border border-gray-200">
                         Agentie SEO Bucuresti
                     </a>
-                    <a href="/servicii/dezvoltare-website-bucuresti" 
+                    <a href="/lightning-revenue/servicii/dezvoltare-website-bucuresti" 
                        class="px-4 py-2 rounded-full bg-white text-gray-600 hover:text-blue-600 hover:shadow-md transition duration-300 border border-gray-200">
                         Dezvoltare Website Bucuresti
                     </a>
-                    <a href="/servicii/email-marketing-bucuresti" 
+                    <a href="/lightning-revenue/servicii/email-marketing-bucuresti" 
                        class="px-4 py-2 rounded-full bg-white text-gray-600 hover:text-blue-600 hover:shadow-md transition duration-300 border border-gray-200">
                         Email Marketing Bucuresti
                     </a>
-                    <a href="/servicii/servicii-marketing-bucuresti" 
+                    <a href="/lightning-revenue/servicii/servicii-marketing-bucuresti" 
                        class="px-4 py-2 rounded-full bg-white text-gray-600 hover:text-blue-600 hover:shadow-md transition duration-300 border border-gray-200">
                         Servicii Marketing Bucuresti
                     </a>
-                    <a href="/servicii/pr-bucuresti" 
+                    <a href="/lightning-revenue/servicii/pr-bucuresti" 
                        class="px-4 py-2 rounded-full bg-white text-gray-600 hover:text-blue-600 hover:shadow-md transition duration-300 border border-gray-200">
                         PR Bucuresti
                     </a>
@@ -168,7 +168,7 @@ require_once 'components/footer.php';
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     <!-- Google Ads -->
                     <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition duration-300">
-                        <a href="/pages/servicii/google-ads.php" class="block">
+                        <a href="/lightning-revenue/pages/servicii/google-ads.php" class="block">
                             <div class="p-8">
                                 <div class="text-blue-600 mb-4">
                                     <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -194,7 +194,7 @@ require_once 'components/footer.php';
 
                     <!-- SEO -->
                     <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition duration-300">
-                        <a href="/pages/servicii/seo.php" class="block">
+                        <a href="/lightning-revenue/pages/servicii/seo.php" class="block">
                             <div class="p-8">
                                 <div class="text-blue-600 mb-4">
                                     <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -220,7 +220,7 @@ require_once 'components/footer.php';
 
                     <!-- Email Marketing -->
                     <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition duration-300">
-                        <a href="/pages/servicii/email-marketing.php" class="block">
+                        <a href="/lightning-revenue/pages/servicii/email-marketing.php" class="block">
                             <div class="p-8">
                                 <div class="text-blue-600 mb-4">
                                     <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -246,7 +246,7 @@ require_once 'components/footer.php';
 
                     <!-- Social Media -->
                     <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition duration-300">
-                        <a href="/pages/servicii/social-media.php" class="block">
+                        <a href="/lightning-revenue/pages/servicii/social-media.php" class="block">
                             <div class="p-8">
                                 <div class="text-blue-600 mb-4">
                                     <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -272,7 +272,7 @@ require_once 'components/footer.php';
 
                     <!-- Web Development -->
                     <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition duration-300">
-                        <a href="/pages/servicii/web-development.php" class="block">
+                        <a href="/lightning-revenue/pages/servicii/web-development.php" class="block">
                             <div class="p-8">
                                 <div class="text-blue-600 mb-4">
                                     <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -298,7 +298,7 @@ require_once 'components/footer.php';
 
                     <!-- Analytics & Reporting -->
                     <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition duration-300">
-                        <a href="/pages/servicii/analytics.php" class="block">
+                        <a href="/lightning-revenue/pages/servicii/analytics.php" class="block">
                             <div class="p-8">
                                 <div class="text-blue-600 mb-4">
                                     <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -424,7 +424,7 @@ require_once 'components/footer.php';
                 </div>
 
                 <div class="text-center mt-12">
-                    <a href="/contact" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 transition duration-300">
+                    <a href="/lightning-revenue/contact" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 transition duration-300">
                         Discută cu un expert
                         <svg class="ml-2 -mr-1 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
@@ -542,7 +542,7 @@ require_once 'components/footer.php';
                     <p class="text-center text-gray-600 mb-8">
                         Completează formularul și te contactăm în maxim 24 de ore
                     </p>
-                    <form action="/process-form.php" method="POST" class="space-y-6">
+                    <form action="/lightning-revenue/process-form.php" method="POST" class="space-y-6">
                         <div class="grid md:grid-cols-2 gap-6">
                             <div>
                                 <label for="nume" class="block text-sm font-medium text-gray-700 mb-1">Nume</label>
@@ -614,7 +614,7 @@ require_once 'components/footer.php';
                         <div class="space-y-12">
                             <div>
                                 <h4 class="text-xl font-semibold text-gray-900 mb-4">
-                                    <a href="/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-700">
+                                    <a href="/lightning-revenue/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-700">
                                         1. Campanii Google Ads cu Impact Imediat
                                     </a>
                                 </h4>
@@ -634,7 +634,7 @@ require_once 'components/footer.php';
 
                             <div>
                                 <h4 class="text-xl font-semibold text-gray-900 mb-4">
-                                    <a href="/dezvoltare-siteuri-bucuresti" class="text-blue-600 hover:text-blue-700">
+                                    <a href="/lightning-revenue/dezvoltare-siteuri-bucuresti" class="text-blue-600 hover:text-blue-700">
                                         2. Optimizare SEO pentru Creștere Organică
                                     </a>
                                 </h4>
@@ -654,7 +654,7 @@ require_once 'components/footer.php';
 
                             <div>
                                 <h4 class="text-xl font-semibold text-gray-900 mb-4">
-                                    <a href="/dezvoltare-siteuri-bucuresti" class="text-blue-600 hover:text-blue-700">
+                                    <a href="/lightning-revenue/dezvoltare-siteuri-bucuresti" class="text-blue-600 hover:text-blue-700">
                                         3. Website-uri Performante pentru Afaceri Mici si Mijlocii
                                     </a>
                                 </h4>
@@ -671,7 +671,7 @@ require_once 'components/footer.php';
 
                             <div>
                                 <h4 class="text-xl font-semibold text-gray-900 mb-4">
-                                    <a href="/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-700">
+                                    <a href="/lightning-revenue/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-700">
                                         4. Social Media Marketing Strategic
                                     </a>
                                 </h4>
@@ -688,7 +688,7 @@ require_once 'components/footer.php';
 
                             <div>
                                 <h4 class="text-xl font-semibold text-gray-900 mb-4">
-                                    <a href="/email-marketing-bucuresti" class="text-blue-600 hover:text-blue-700">
+                                    <a href="/lightning-revenue/email-marketing-bucuresti" class="text-blue-600 hover:text-blue-700">
                                         5. Email Marketing pentru Fidelizare și Conversii
                                     </a>
                                 </h4>
@@ -722,7 +722,7 @@ require_once 'components/footer.php';
                 </div>
 
                 <div class="text-center mt-12">
-                    <a href="/contact" class="inline-flex items-center px-8 py-4 border border-transparent text-lg font-semibold rounded-lg text-white bg-blue-600 hover:bg-blue-700 transition duration-300">
+                    <a href="/lightning-revenue/contact" class="inline-flex items-center px-8 py-4 border border-transparent text-lg font-semibold rounded-lg text-white bg-blue-600 hover:bg-blue-700 transition duration-300">
                         Programează o Consultație Gratuită
                         <svg class="ml-2 -mr-1 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
@@ -820,7 +820,7 @@ require_once 'components/footer.php';
                     Hai să discutăm despre cum putem crește afacerea ta prin marketing digital performant
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                    <a href="/contact" 
+                    <a href="/lightning-revenue/contact" 
                         class="inline-flex items-center px-8 py-4 border border-transparent text-lg font-semibold rounded-lg text-white bg-blue-600 hover:bg-blue-700 transition duration-300">
                         Programează Consultație Gratuită
                         <svg class="ml-2 -mr-1 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
