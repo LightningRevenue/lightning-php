@@ -51,6 +51,7 @@ RewriteRule ^despre-noi/?$ pages/despre-noi.php [L,NC]
 # Fallback generic: dacă nu găsește altceva, încearcă să adauge .php în /pages/
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !\.php$
 RewriteRule ^([^/]+)/?$ pages/$1.php [L]
 
 # Force HTTPS
