@@ -153,7 +153,7 @@ renderNavbar();
 
                 <section class="mb-12">
                     <h2 class="text-2xl font-bold text-gray-900 mb-4">10. Cookie-uri și Tehnologii Similare</h2>
-                    <p class="mb-4">Utilizăm cookie-uri și tehnologii similare pentru a îmbunătăți experiența dumneavoastră. Pentru mai multe informații, consultați <a href="/politica-cookie" class="text-blue-600 hover:text-blue-800">Politica noastră Cookie</a>.</p>
+                    <p class="mb-4">Utilizăm cookie-uri și tehnologii similare pentru a îmbunătăți experiența dumneavoastră. Pentru mai multe informații, consultați <a href="/lightning-revenue/politica-cookie" class="text-blue-600 hover:text-blue-800">Politica noastră Cookie</a>.</p>
                 </section>
 
                 <section class="mb-12">
@@ -184,8 +184,8 @@ renderNavbar();
                 <div class="bg-gray-50 p-6 rounded-lg mt-8">
                     <p class="text-sm text-gray-600">
                         Această politică de confidențialitate este complementară cu 
-                        <a href="/termeni-si-conditii" class="text-blue-600 hover:text-blue-800">Termenii și Condițiile</a> și 
-                        <a href="/politica-cookie" class="text-blue-600 hover:text-blue-800">Politica Cookie</a>.
+                        <a href="/lightning-revenue/termeni-si-conditii" class="text-blue-600 hover:text-blue-800">Termenii și Condițiile</a> și 
+                        <a href="/lightning-revenue/politica-cookie" class="text-blue-600 hover:text-blue-800">Politica Cookie</a>.
                         Vă recomandăm să citiți toate aceste documente pentru o înțelegere completă a drepturilor și obligațiilor dumneavoastră.
                     </p>
                 </div>

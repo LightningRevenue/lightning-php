@@ -4,22 +4,9 @@ RewriteEngine On
 # Redirect sitemap.xml to sitemap.php
 RewriteRule ^sitemap\.xml$ sitemap.php [L]
 
-# Remove .php extension
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.php -f
-RewriteRule ^(.*)$ $1.php [L]
-
 # Redirect from /pages/ to root
 RewriteCond %{REQUEST_URI} ^/pages/
 RewriteRule ^pages/(.*) /$1 [R=301,L]
-
-# Force HTTPS
-RewriteCond %{HTTPS} off
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-
-# Custom error pages
-ErrorDocument 404 /404.php
-ErrorDocument 500 /500.php
 
 # Enable GZIP compression
 <IfModule mod_deflate.c>
@@ -61,4 +48,15 @@ RewriteRule ^politica-confidentialitate/?$ pages/politica-confidentialitate.php 
 RewriteRule ^resurse-tehnice/?$ pages/resurse-tehnice.php [L,NC]
 RewriteRule ^despre-noi/?$ pages/despre-noi.php [L,NC]
 
+# Remove .php extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
 
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Custom error pages
+ErrorDocument 404 /404.php
+ErrorDocument 500 /500.php
