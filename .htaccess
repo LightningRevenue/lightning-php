@@ -4,7 +4,7 @@ RewriteEngine On
 # Redirect sitemap.xml to sitemap.php
 RewriteRule ^sitemap\.xml$ sitemap.php [L]
 
-# Redirect from /pages/ to root (optional)
+# Redirect from /pages/ to root
 RewriteCond %{REQUEST_URI} ^/pages/
 RewriteRule ^pages/(.*) /$1 [R=301,L]
 
@@ -39,7 +39,7 @@ RewriteRule ^pages/(.*) /$1 [R=301,L]
 
 # Redirect from clean URLs to actual PHP files
 RewriteRule ^promovare-google-ads-promovare-online/?$ pages/promovare-google-ads-promovare-online.php [L,NC]
-RewriteRule ^contact/?$ pages/contact.php [L,NC]
+RewriteRule ^contact/?$ pages/contact.php [L,NC] 
 RewriteRule ^dezvoltare-siteuri-bucuresti/?$ pages/dezvoltare-siteuri-bucuresti.php [L,NC]
 RewriteRule ^email-marketing-bucuresti/?$ pages/email-marketing-bucuresti.php [L,NC]
 RewriteRule ^termeni-si-conditii/?$ pages/termeni-si-conditii.php [L,NC]
@@ -48,16 +48,11 @@ RewriteRule ^politica-confidentialitate/?$ pages/politica-confidentialitate.php 
 RewriteRule ^resurse-tehnice/?$ pages/resurse-tehnice.php [L,NC]
 RewriteRule ^despre-noi/?$ pages/despre-noi.php [L,NC]
 
-# Fallback generic: dacă nu găsește altceva, încearcă să adauge .php în /pages/
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_URI} !\.php$
-RewriteRule ^([^/]+)/?$ pages/$1.php [L]
 
 # Force HTTPS
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-# Custom error pages din /pages/
-ErrorDocument 404 /pages/404.php
-ErrorDocument 500 /pages/500.php
+# Custom error pages
+ErrorDocument 404 /404.php
+ErrorDocument 500 /500.php
