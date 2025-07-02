@@ -42,21 +42,21 @@ function renderNavbar($activePage = '') {
 
                 <!-- Navigation Links -->
                 <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
-                    <a href="/lightning-revenue/promovare-google-ads-promovare-online" 
+                    <a href="/lightning-revenue/servicii/promovare-google-ads-promovare-online" 
                        class="<?php echo $activePage === 'promovare' 
                             ? 'border-blue-500 text-gray-900' 
                             : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700'; ?> 
                             inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
                         Servicii Promovare Online Bucuresti
                     </a>
-                    <a href="/lightning-revenue/dezvoltare-siteuri-bucuresti" 
+                    <a href="/lightning-revenue/servicii/dezvoltare-siteuri-bucuresti" 
                        class="<?php echo $activePage === 'dezvoltare' 
                             ? 'border-blue-500 text-gray-900' 
                             : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700'; ?> 
                             inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
                         Dezvoltare Website Bucuresti
                     </a>
-                    <a href="/lightning-revenue/email-marketing-bucuresti"
+                    <a href="/lightning-revenue/servicii/email-marketing-bucuresti"
                        class="<?php echo $activePage === 'email' 
                             ? 'border-blue-500 text-gray-900' 
                             : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700'; ?> 
