@@ -128,8 +128,8 @@ renderNavbar();
                     <p class="text-sm text-gray-600">
                         Prin utilizarea serviciilor noastre, confirmați că ați citit, înțeles și sunteți de acord cu acești Termeni și Condiții.
                         Pentru mai multe informații despre modul în care procesăm datele dumneavoastră, vă rugăm să consultați 
-                        <a href="/lightning-revenue/politica-confidentialitate" class="text-blue-600 hover:text-blue-800">Politica de Confidențialitate</a> și 
-                        <a href="/lightning-revenue/politica-cookie" class="text-blue-600 hover:text-blue-800">Politica Cookie</a>.
+                        <a href="/politica-confidentialitate" class="text-blue-600 hover:text-blue-800">Politica de Confidențialitate</a> și 
+                        <a href="/politica-cookie" class="text-blue-600 hover:text-blue-800">Politica Cookie</a>.
                     </p>
                 </div>
             </div>
