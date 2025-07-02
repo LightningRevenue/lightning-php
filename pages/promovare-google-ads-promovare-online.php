@@ -26,7 +26,7 @@ renderNavbar('promovare');
                         Creștem afacerea ta prin campanii Google Ads optimizate și strategii complete de marketing online
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4">
-                        <a href="/lightning-revenue/contact" 
+                        <a href="/contact" 
                             class="inline-flex items-center px-8 py-4 border border-transparent text-lg font-semibold rounded-lg text-white bg-blue-600 hover:bg-blue-700 transition duration-300">
                             Solicită Ofertă Personalizată
                             <svg class="ml-2 -mr-1 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -68,7 +68,7 @@ renderNavbar('promovare');
                 </div>
                 <div class="relative">
                     <div class="absolute inset-0 bg-blue-100 rounded-3xl transform rotate-3"></div>
-                    <img src="/lightning-revenue/assets/images/g-ads-dashboard.jpg" alt="Google Ads Dashboard" class="relative rounded-2xl shadow-lg w-full h-auto z-10">
+                    <img src="/assets/images/g-ads-dashboard.jpg" alt="Google Ads Dashboard" class="relative rounded-2xl shadow-lg w-full h-auto z-10">
                 </div>
             </div>
         </div>
@@ -194,7 +194,7 @@ renderNavbar('promovare');
                 <div class="space-y-8">
                     <!-- Google Ads Service -->
                     <div class="group">
-                        <a href="/lightning-revenue/promovare-google-ads" class="block bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300">
+                        <a href="/promovare-google-ads" class="block bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300">
                             <div class="flex items-start">
                                 <div class="flex-shrink-0">
                                     <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg flex items-center justify-center">
@@ -225,7 +225,7 @@ renderNavbar('promovare');
 
                     <!-- Social Media Service -->
                     <div class="group">
-                        <a href="/lightning-revenue/promovare-social-media" class="block bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300">
+                        <a href="/promovare-social-media" class="block bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300">
                             <div class="flex items-start">
                                 <div class="flex-shrink-0">
                                     <div class="w-12 h-12 bg-gradient-to-br from-purple-500 to-purple-600 rounded-lg flex items-center justify-center">
@@ -256,7 +256,7 @@ renderNavbar('promovare');
 
                     <!-- Email Marketing Service -->
                     <div class="group">
-                        <a href="/lightning-revenue/email-marketing" class="block bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300">
+                        <a href="/email-marketing" class="block bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300">
                             <div class="flex items-start">
                                 <div class="flex-shrink-0">
                                     <div class="w-12 h-12 bg-gradient-to-br from-green-500 to-green-600 rounded-lg flex items-center justify-center">
@@ -336,7 +336,7 @@ renderNavbar('promovare');
                         </div>
 
                         <div class="mt-8">
-                            <a href="/lightning-revenue/contact" class="inline-flex items-center justify-center w-full px-6 py-3 text-base font-medium text-white bg-blue-600 border border-transparent rounded-lg shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                            <a href="/contact" class="inline-flex items-center justify-center w-full px-6 py-3 text-base font-medium text-white bg-blue-600 border border-transparent rounded-lg shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
                                 Solicită o Consultație Gratuită
                                 <svg class="w-5 h-5 ml-2 -mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
@@ -357,7 +357,7 @@ renderNavbar('promovare');
                             <p class="text-xl text-gray-600">Completează formularul și te vom contacta în cel mai scurt timp</p>
                         </div>
 
-                        <form action="/lightning-revenue/submit-form.php" method="POST" class="space-y-6 bg-white rounded-xl shadow-sm p-8 border border-gray-100">
+                        <form action="/submit-form.php" method="POST" class="space-y-6 bg-white rounded-xl shadow-sm p-8 border border-gray-100">
                             <div class="grid md:grid-cols-2 gap-6">
                                 <!-- Nume -->
                                 <div>
@@ -570,7 +570,7 @@ renderNavbar('promovare');
                     <h3 class="text-2xl font-bold text-gray-900 mb-6">Promovare Online pentru Afaceri în 2025</h3>
                     
                     <div class="bg-gradient-to-br from-blue-50 to-white p-8 rounded-2xl shadow-sm border border-blue-100 mb-8">
-                        <p class="text-gray-800 leading-relaxed mb-6">În era digitală, promovarea online reprezintă fundamentul creșterii oricărei afaceri. Prin combinarea strategică a canalelor de marketing digital - <a href="/lightning-revenue/pages/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-800 font-medium">Google Ads</a>, <a href="/lightning-revenue/pages/promovare-social-media" class="text-blue-600 hover:text-blue-800 font-medium">Social Media Marketing</a>, <a href="/lightning-revenue/pages/email-marketing" class="text-blue-600 hover:text-blue-800 font-medium">Email Marketing</a> și Content Marketing - creăm un ecosistem digital care generează lead-uri și vânzări constant.</p>
+                        <p class="text-gray-800 leading-relaxed mb-6">În era digitală, promovarea online reprezintă fundamentul creșterii oricărei afaceri. Prin combinarea strategică a canalelor de marketing digital - <a href="/pages/promovare-google-ads-promovare-online" class="text-blue-600 hover:text-blue-800 font-medium">Google Ads</a>, <a href="/pages/promovare-social-media" class="text-blue-600 hover:text-blue-800 font-medium">Social Media Marketing</a>, <a href="/pages/email-marketing" class="text-blue-600 hover:text-blue-800 font-medium">Email Marketing</a> și Content Marketing - creăm un ecosistem digital care generează lead-uri și vânzări constant.</p>
                         
                         <div class="grid md:grid-cols-2 gap-8">
                             <div>
@@ -580,19 +580,19 @@ renderNavbar('promovare');
                                         <svg class="w-5 h-5 text-blue-500 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
                                         </svg>
-                                        <a href="/lightning-revenue/pages/promovare-google-ads-promovare-online" class="text-gray-700 hover:text-blue-600">Campanii Google Ads optimizate pentru conversii</a>
+                                        <a href="/pages/promovare-google-ads-promovare-online" class="text-gray-700 hover:text-blue-600">Campanii Google Ads optimizate pentru conversii</a>
                                     </li>
                                     <li class="flex items-start">
                                         <svg class="w-5 h-5 text-blue-500 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
                                         </svg>
-                                        <a href="/lightning-revenue/pages/marketing-digital" class="text-gray-700 hover:text-blue-600">Strategii de marketing digital personalizate</a>
+                                        <a href="/pages/marketing-digital" class="text-gray-700 hover:text-blue-600">Strategii de marketing digital personalizate</a>
                                     </li>
                                     <li class="flex items-start">
                                         <svg class="w-5 h-5 text-blue-500 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
                                         </svg>
-                                        <a href="/lightning-revenue/pages/promovare-social-media" class="text-gray-700 hover:text-blue-600">Promovare pe rețele sociale</a>
+                                        <a href="/pages/promovare-social-media" class="text-gray-700 hover:text-blue-600">Promovare pe rețele sociale</a>
                                     </li>
                                 </ul>
                             </div>
@@ -603,19 +603,19 @@ renderNavbar('promovare');
                                         <svg class="w-5 h-5 text-blue-500 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
                                         </svg>
-                                        <a href="/lightning-revenue/pages/email-marketing" class="text-gray-700 hover:text-blue-600">Email marketing și automatizări</a>
+                                        <a href="/pages/email-marketing" class="text-gray-700 hover:text-blue-600">Email marketing și automatizări</a>
                                     </li>
                                     <li class="flex items-start">
                                         <svg class="w-5 h-5 text-blue-500 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
                                         </svg>
-                                        <a href="/lightning-revenue/pages/remarketing" class="text-gray-700 hover:text-blue-600">Remarketing și targetare avansată</a>
+                                        <a href="/pages/remarketing" class="text-gray-700 hover:text-blue-600">Remarketing și targetare avansată</a>
                                     </li>
                                     <li class="flex items-start">
                                         <svg class="w-5 h-5 text-blue-500 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
                                         </svg>
-                                        <a href="/lightning-revenue/pages/analiza-marketing" class="text-gray-700 hover:text-blue-600">Analiză și raportare detaliată</a>
+                                        <a href="/pages/analiza-marketing" class="text-gray-700 hover:text-blue-600">Analiză și raportare detaliată</a>
                                     </li>
                                 </ul>
                             </div>
@@ -655,7 +655,7 @@ renderNavbar('promovare');
                         </div>
                     </div>
 
-                    <p class="mt-8 text-lg text-gray-700">Indiferent de dimensiunea afacerii tale sau de industria în care activezi, avem <a href="/lightning-revenue/pages/marketing-digital" class="text-blue-600 hover:text-blue-800 font-medium">soluția potrivită</a> pentru creșterea prezenței tale online și atragerea de clienți noi.</p>
+                    <p class="mt-8 text-lg text-gray-700">Indiferent de dimensiunea afacerii tale sau de industria în care activezi, avem <a href="/pages/marketing-digital" class="text-blue-600 hover:text-blue-800 font-medium">soluția potrivită</a> pentru creșterea prezenței tale online și atragerea de clienți noi.</p>
                 </div>
 
                 <!-- Final CTA -->
@@ -665,13 +665,13 @@ renderNavbar('promovare');
                             <h3 class="text-2xl md:text-3xl font-bold text-white mb-4">Pregătit să Crești Online?</h3>
                             <p class="text-blue-100 text-lg mb-8">Programează o consultație gratuită și află cum te putem ajuta să-ți dezvolți afacerea</p>
                             <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                                <a href="/lightning-revenue/contact" class="inline-flex items-center px-8 py-4 border-2 border-white text-lg font-semibold rounded-lg text-white hover:bg-white hover:text-blue-600 transition duration-300">
+                                <a href="/contact" class="inline-flex items-center px-8 py-4 border-2 border-white text-lg font-semibold rounded-lg text-white hover:bg-white hover:text-blue-600 transition duration-300">
                                     Programează Consultația
                                     <svg class="ml-2 -mr-1 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
                                     </svg>
                                 </a>
-                                <a href="/lightning-revenue/about" class="inline-flex items-center px-8 py-4 text-lg font-semibold rounded-lg text-white hover:bg-white hover:text-blue-600 border-2 border-white transition duration-300">
+                                <a href="/about" class="inline-flex items-center px-8 py-4 text-lg font-semibold rounded-lg text-white hover:bg-white hover:text-blue-600 border-2 border-white transition duration-300">
                                     Despre Noi
                                     <svg class="ml-2 -mr-1 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z"/>
@@ -730,7 +730,7 @@ renderNavbar('promovare');
                             <span>Raportare săptămânală</span>
                         </li>
                     </ul>
-                    <a href="/lightning-revenue/contact" 
+                    <a href="/contact" 
                         class="block w-full text-center px-6 py-3 border border-blue-600 text-blue-600 font-semibold rounded-lg hover:bg-blue-50 transition duration-300">
                         Solicită Ofertă
                     </a>
@@ -769,7 +769,7 @@ renderNavbar('promovare');
                             <span>Pana la 100 de cuvinte cheie <strong>gratuite</strong></span>
                         </li>
                     </ul>
-                    <a href="/lightning-revenue/contact" 
+                    <a href="/contact" 
                         class="block w-full text-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition duration-300">
                         Solicită Ofertă
                     </a>
@@ -808,7 +808,7 @@ renderNavbar('promovare');
                             <span>Cuvinte cheie nelimitate</span>
                         </li>
                     </ul>
-                    <a href="/lightning-revenue/contact" 
+                    <a href="/contact" 
                         class="block w-full text-center px-6 py-3 border border-blue-600 text-blue-600 font-semibold rounded-lg hover:bg-blue-50 transition duration-300">
                         Solicită Ofertă
                     </a>
@@ -829,7 +829,7 @@ renderNavbar('promovare');
                             Programează o consultație gratuită și află cum putem ajuta afacerea ta să crească prin Google Ads și marketing online
                         </p>
                         <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <a href="/lightning-revenue/contact" 
+                            <a href="/contact" 
                                 class="inline-flex items-center px-8 py-4 border border-transparent text-lg font-semibold rounded-lg text-white bg-blue-600 hover:bg-blue-700 transition duration-300">
                                 Programează Consultație Gratuită
                                 <svg class="ml-2 -mr-1 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
